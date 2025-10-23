@@ -1,0 +1,1 @@
+This is my first project. I will attempt to make a basic recipes website using the basics of HTML i have acquired thanks to TheOdinProject's Foundations course. 
